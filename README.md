@@ -1,9 +1,9 @@
 # Iris
 A cozy [Spicetify](https://spicetify.app/) theme for Spotify, and for those who love simplicity, the default scheme keeps things clean and close to the original look.
 
-<img width="1920" height="1080" alt="iris-cover" src="https://github.com/user-attachments/assets/a083fd1c-9fa6-49bf-957b-445f62959ae9" />
+<img width="1920" height="1080" alt="iris-header" src="https://github.com/user-attachments/assets/aac00b7b-1eab-42a2-8e88-b367fb1646a1" />
 
-<img width="1920" height="1080" alt="iris-preview" src="https://github.com/user-attachments/assets/0c5f92b5-df24-41cb-93a7-95b45dfdaf32" />
+<img width="1920" height="1080" alt="iris-preview" src="https://github.com/user-attachments/assets/3a9542c4-41ed-4dd2-b7d5-a6e60dab2ae9" />
 
 ## Color schemes
 
